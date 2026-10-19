@@ -1,0 +1,13 @@
+PAINEL DE GESTÃO PESSOAL — versão app (PWA)
+
+1. Suba TODOS os arquivos desta pasta (mantendo a pasta "icons") para um hospedagem HTTPS:
+   - Netlify Drop (app.netlify.com/drop): arraste a pasta e pronto.
+   - Ou GitHub Pages / Cloudflare Pages.
+2. Abra o link no celular:
+   - Android (Chrome): menu ⋮ > Instalar app (ou botão ⚙ do painel > Instalar app).
+   - iPhone (Safari): Compartilhar > Adicionar à Tela de Início.
+3. Backup: botão ⚙ no canto da tela > Exportar / Importar.
+   Faça backup de vez em quando: os dados ficam só no aparelho.
+
+Observação: as fontes do Google foram removidas para o app funcionar offline;
+o painel usa as fontes padrão do sistema.
